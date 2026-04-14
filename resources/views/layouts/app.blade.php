@@ -139,7 +139,7 @@
     </main>
 
     <footer>
-        Desarrollado por <strong>Tu Nombre</strong> &nbsp;·&nbsp; Materia: Desarrollo Web &nbsp;·&nbsp; {{ date('Y') }}
+        Desarrollado por <strong>Aaron Aviles</strong> &nbsp;·&nbsp; Materia: Desarrollo Web &nbsp;·&nbsp; {{ date('Y') }}
     </footer>
 
 </body>
