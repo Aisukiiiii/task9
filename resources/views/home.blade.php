@@ -9,8 +9,6 @@
 @section('content')
     <div class="card">
         <div class="card-body">
-            <p class="lead">Esta es la página principal del sitio web.</p>
-            <p>Aquí puedes colocar el contenido principal de tu aplicación.</p>
         </div>
     </div>
 @stop
