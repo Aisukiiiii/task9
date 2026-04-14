@@ -1,6 +1,16 @@
-@extends('layouts.app')
+@extends('adminlte::page')
+
+@section('title', 'Home')
+
+@section('content_header')
+    <h1><i class="fas fa-home mr-2"></i> Bienvenido a Home</h1>
+@stop
 
 @section('content')
-    <h1>Bienvenido a Home</h1>
-    <p>Esta es la página principal del sitio web.</p>
-@endsection
+    <div class="card">
+        <div class="card-body">
+            <p class="lead">Esta es la página principal del sitio web.</p>
+            <p>Aquí puedes colocar el contenido principal de tu aplicación.</p>
+        </div>
+    </div>
+@stop
